@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <input placeholder="输入新闻类型" value='guoji'  class='input'/>
+  <button type="primary" bindtap="btnClick">
+    查询新闻
+  </button>
+</view>
